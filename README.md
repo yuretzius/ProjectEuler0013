@@ -123,7 +123,7 @@ that's why I am sharing my work here for reference and educational purposes.
 
 Python has its native ability to work with integers of any size. So all we need is to organize them as a list, add, and look up the first 10 digits.
 C++ version required a little more work. I saved the data as a vector of strings, read them digit by digit into vectors of integers, and wrote a summation
-function mimicing long addition.
+function mimicking long addition.
 
 
 
