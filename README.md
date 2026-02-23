@@ -3,7 +3,7 @@ My work on
 
 [problem #13 of projecteuler.net](https://projecteuler.net/problem=13):
 
-Large Sum
+### Large Sum
 
 Work out the first ten digits of the sum of the following one-hundred $50$-digit numbers.
 
@@ -114,12 +114,10 @@ Work out the first ten digits of the sum of the following one-hundred $50$-digit
 
 </details>
 
-Completed on Wed, 24 Feb 2021, 22:10
+*Completed on Wed, 24 Feb 2021, 22:10*
 
-#######################################################################################
-Please note: Project Euler's policy allows publication of solutions for the first 100 problems,
-that's why I am sharing my work here for reference and educational purposes.
-#######################################################################################
+> [!NOTE]
+> Project Euler's policy allows publication of solutions for the first 100 problems, that's why I am sharing my work here for reference and educational purposes.
 
 Python has its native ability to work with integers of any size. So all we need is to organize them as a list, add, and look up the first 10 digits.
 C++ version required a little more work. I saved the data as a vector of strings, read them digit by digit into vectors of integers, and wrote a summation
